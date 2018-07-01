@@ -6,9 +6,9 @@ Parameters:
   ProjectTag:
     Description: Project name to be associated to each resource as a tag.
     Type: String
-    Default: "ArturoBayo-TFM"
+    Default: "ArturoBayo-project"
     AllowedValues:
-      - "ArturoBayo-TFM"
+      - "ArturoBayo-project"
 
   NotebookInstanceName:
     Description: Name for the Notebook Instance that is going to be created
